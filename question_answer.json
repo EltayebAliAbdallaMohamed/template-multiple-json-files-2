@@ -1,0 +1,191 @@
+
+
+{
+  "title": "Q3eSE_RW0_U06_QClassroom",
+  "sentences": [
+    {
+      "speaker": "Teacher:",
+      "keyWord": "",
+      "definition": "",
+      "english": "What are you interested in?",
+      "arabic": "بماذا تهتم؟",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_question.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Yuna:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I like cooking.",
+      "arabic": "أنا يعجبني الطبح",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/intereested_in_answer_1.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Teacher:",
+      "keyWord": "",
+      "definition": "",
+      "english": "What are you interested in?",
+      "arabic": "بماذا تهتم؟",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_question.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Felix:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I’m interested in languages.",
+      "arabic": "أنا مهتم باللغات.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_answer_2.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Teacher:",
+      "keyWord": "",
+      "definition": "",
+      "english": "What are you interested in?",
+      "arabic": "بماذا تهتم؟",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_question.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Marcus:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Lots of things. I really like sports.",
+      "arabic": "الكثير من الأشياء. أنا يعجبني الرياضة حقًا.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_answer_3.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Teacher:",
+      "keyWord": "",
+      "definition": "",
+      "english": "What are you interested in?",
+      "arabic": "بماذا تهتم؟",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_question.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Sophy:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I like history.",
+      "arabic": "أنا يعجبني التاريخ",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_answer_4.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }  ,
+     {
+      "speaker": "Teacher:",
+      "keyWord": "",
+      "definition": "",
+      "english": "What are you interested in?",
+      "arabic": "بماذا تهتم؟",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_question.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Sophy:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I like to go to museums.",
+      "arabic": "أنا يعجبني أن أذهب إلى المتاحف",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_answer_5.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    } ,
+     {
+      "speaker": "Teacher:",
+      "keyWord": "",
+      "definition": "",
+      "english": "What are you interested in?",
+      "arabic": "بماذا تهتم؟",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_question.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+          {
+      "speaker": "Sophy:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I like to go to museums, and I also like to read.",
+      "arabic": "أنا يعجبني أن أذهب إلى المتاحف و يعجبني أن أقرأ أيضا" ,
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_answer_7.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+      
+    },
+     {
+      "speaker": "Teacher:",
+      "keyWord": "",
+      "definition": "",
+      "english": "What are you interested in?",
+      "arabic": "بماذا تهتم؟",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_question.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+          {
+      "speaker": "Sophy:",
+      "keyWord": "",
+      "definition": "",
+      "english": "I like to go to museums, and I also like to read.",
+      "arabic": "أنا يعجبني أن أذهب إلى المتاحف و يعجبني أن أقرأ أيضا" ,
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/interested_in_answer_7.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+      
+    }
+      ]
+}
